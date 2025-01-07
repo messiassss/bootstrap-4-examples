@@ -1,0 +1,25 @@
+
+body{
+    background-color: blueviolet;
+}
+
+header{
+    margin: 2vh auto;
+}
+
+nav, main {
+    height: 84vh;
+}
+header,nav,main{
+    min-height: 10vh;
+    background-color: #fff;
+}
+@media (min-width: 576px) {  }
+
+@media (min-width: 768px) { }
+
+@media (min-width: 992px) {}
+
+@media (min-width: 1200px) { }
+
+@media (min-width: 1400px) {  }

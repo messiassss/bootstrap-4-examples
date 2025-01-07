@@ -1,0 +1,14 @@
+.container{
+    padding: 2rem;
+}
+
+/* [class^=col-] isso aqui ta pegando todos que começam com col */
+.row > .col,
+.row > [class^=col-],
+.bg {
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+    background-color: rgb(243,117,32, .15);
+    border: 1px solid rgb(243,117,32, .15);
+
+}
